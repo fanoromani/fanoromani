@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 👨‍💻 Check out my <strong>[Portfolio](https://fanoromani.netlify.app)</strong>
+ 👨‍💻 All of my projects are available at [fanoromani.netlify.app](fanoromani.netlify.app)
 
 - 📫 How to reach me **fanoromani@gmail.com**
 
