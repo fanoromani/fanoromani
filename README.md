@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefano Romani</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 👨‍💻 Check out my <strong><a href="https://fanoromani.netlify.app">Portfolio</a></strong>
+- 👨‍💻 Check out my <strong><a href="https://fanoromani.netlify.app" target="_blank">Portfolio</a></strong>
 
 - 📫 How to reach me **fanoromani@gmail.com**
 
