@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 👨‍💻 Check out my <strong><a href="https://fanoromani.netlify.app" target="_blank">Portfolio</a></strong>
-- 📄 Know about my experiences: [##CV](https://drive.google.com/file/d/1MbgqtwlNWRdV3gmzohCRoJTHqCpRBZAD/view?usp=sharing)
+- 📄 Know about my experiences: [Curriculum Vitae](https://drive.google.com/file/d/1MbgqtwlNWRdV3gmzohCRoJTHqCpRBZAD/view?usp=sharing)
 
 - 📫 How to reach me **fanoromani@gmail.com**
 
