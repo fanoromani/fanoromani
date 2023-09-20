@@ -61,6 +61,12 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
     </a> 
+    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_prisma.svg" alt="prisma" width="40" height="40"/> 
+    </a>
+    <a href="https://fastify.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://vectorwiki.com/images/ihkfR__fastify.svg" alt="fastify" width="40" height="40"/> 
+    </a>
     </p>
 
 <p>
