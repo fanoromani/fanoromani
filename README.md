@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stefano Romani</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fanoromani" alt="fanoromani" /></a> </p>
 
 - 👨‍💻 Check out some of my projects at my <strong><a href="https://fanoromani.netlify.app" target="_blank">Portfolio</a></strong>
 - 📄 Know about my experiences: <strong><a href="https://drive.google.com/file/d/1MbgqtwlNWRdV3gmzohCRoJTHqCpRBZAD/view?usp=sharing" target="_blank">CV</a></strong>
@@ -65,6 +64,9 @@
     </a>
     </p>
 
+ <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanoromani&show_icons=true&locale=en&layout=compact" alt="fanoromani" />
+ </p>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanoromani&show_icons=true&locale=en&layout=compact" alt="fanoromani" />
 </p>
