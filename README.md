@@ -65,7 +65,7 @@
     </p>
 
  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanoromani&show_icons=true&locale=en&layout=compact" alt="fanoromani" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fanoromani&show_icons=true&locale=en" alt="fanoromani" />
  </p>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanoromani&show_icons=true&locale=en&layout=compact" alt="fanoromani" />
